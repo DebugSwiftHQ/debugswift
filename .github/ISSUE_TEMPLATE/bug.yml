@@ -1,0 +1,23 @@
+name: Report a problem with the website
+description: A broken link, a page that looks wrong, or a form that didn't work.
+labels: ["bug"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Which page?
+      placeholder: "https://debugswift.com/services"
+    validations:
+      required: true
+  - type: textarea
+    id: got
+    attributes:
+      label: What's wrong
+      description: A screenshot helps a lot. You can paste one straight into this box.
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Device and browser
+      placeholder: "Android phone, Chrome"

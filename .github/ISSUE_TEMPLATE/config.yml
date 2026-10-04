@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Talk about a project
+    url: https://debugswift.com/contact
+    about: Tell us what's slowing your business down.
+  - name: Email DebugSwift
+    url: mailto:hello@debugswift.com
+    about: For anything you'd rather not post in public.
