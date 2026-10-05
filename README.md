@@ -6,7 +6,7 @@
 
 The website of DebugSwift, a founder-led technology agency in Kolkata. We understand a business, find the problem costing it most, and fix it with technology.
 
-![debugswift.com](assets/desktop.png)
+![debugswift.com on desktop and phone](assets/showcase.png)
 
 ## What we do
 
@@ -41,8 +41,6 @@ Each service has its own page at [debugswift.com/services](https://debugswift.co
 - **Text that doesn't jump:** the fallback font is measured to match the real one, so nothing re-wraps when it loads.
 
 What changed, and when: [CHANGELOG.md](CHANGELOG.md)
-
-<img src="assets/phone.png" alt="debugswift.com on a phone" width="300">
 
 ## Found something broken?
 
