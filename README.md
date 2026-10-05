@@ -10,12 +10,19 @@ The website of DebugSwift, a founder-led technology agency in Kolkata. We unders
 
 ## What we do
 
-- **Consultation:** finding the real problem before anyone writes code
-- **AI and automation:** assistants that answer and book, AI wired into the tools you already run, and manual steps automated
-- **Software:** custom web apps, portals, dashboards and booking tools
-- **Websites:** conversion websites, landing pages and e-commerce
-- **SEO and local visibility:** showing up where customers search
-- **Brand and design systems**
+| Service | |
+|---|---|
+| AI Automation & Chatbots | Assistants that answer and book. |
+| AI Integration | AI wired into the tools you run. |
+| Business Process Automation | The manual steps, automated. |
+| Custom Web Apps & SaaS | Portals, dashboards, booking tools. |
+| Web & App Development | Fast sites and apps, no overhead. |
+| Conversion Websites | Measured by enquiries, not praise. |
+| Landing Pages & Ad Campaigns | One page, one offer, paid traffic. |
+| SEO & Local Visibility | Show up where customers search. |
+| Brand & Design Systems | One visual system, used everywhere. |
+| E-commerce | Stores where buying is easy. |
+| Technical Consulting | A second opinion before you commit. |
 
 Each service has its own page at [debugswift.com/services](https://debugswift.com/services).
 
