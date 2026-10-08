@@ -6,7 +6,7 @@
 
 The website of DebugSwift, a founder-led technology agency in Kolkata. We understand a business, find the problem costing it most, and fix it with technology.
 
-![debugswift.com on desktop and phone](assets/showcase.png)
+![debugswift.com on a laptop, a tablet and a phone](assets/showcase.png)
 
 ## What we do
 
