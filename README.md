@@ -28,7 +28,7 @@ Each service has its own page at [debugswift.com/services](https://debugswift.co
 
 ## Also on the site
 
-- [Lead Engine](https://debugswift.com/lead-engine): our WhatsApp enquiry product ([public page](https://github.com/DebugSwiftHQ/lead-engine))
+- [Debnest](https://debugswift.com/debnest): our team inbox for WhatsApp, with Deb answering every enquiry (formerly the Lead Engine; [public page](https://github.com/DebugSwiftHQ/debnest))
 - [Free tools](https://debugswift.com/tools) ([public page](https://github.com/DebugSwiftHQ/tools))
 - [DuctForge](https://ductforge.debugswift.com) ([public page](https://github.com/DebugSwiftHQ/ductforge))
 - [Blog](https://debugswift.com/blog)

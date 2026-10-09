@@ -4,6 +4,7 @@ What changed on the website, newest first. Written from the history of its priva
 
 ## October 2026
 
+- The Lead Engine is now Debnest: its page moved to /debnest (old links redirect), and every menu, the FAQ and the sitemap use the new name.
 - Lead Engine page rewritten to match what version 2 actually does.
 - Analytics that set no cookies, so there is still no cookie banner.
 - Privacy policy updated for the new hosting.
